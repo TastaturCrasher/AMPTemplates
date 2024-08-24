@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "vmod",
+        "Category": "Server Settings",
+        "Description": "The File that contains the information about all cars and tracks.",
+        "Keywords": "vmod",
+        "FieldName": "vmod",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "vmod",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    }
+]

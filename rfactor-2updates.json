@@ -1,0 +1,12 @@
+[
+    {
+        "UpdateStageName": "rFactor 2 Dedicated Server",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceArgs": "400300",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]

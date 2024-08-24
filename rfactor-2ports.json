@@ -1,0 +1,30 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": "64297",
+        "Name": "HTTP Server Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "HTTPServerPort"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "64298",
+        "Name": "Steam Query Port1",
+        "Description": "Port used for main game traffic",
+        "Ref": "SteamQueryPort1"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "64299",
+        "Name": "Steam Query Port2",
+        "Description": "Port used for main game traffic",
+        "Ref": "SteamQueryPort2"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "54297",
+        "Name": "Simulation Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "SimulationPort"
+    }
+]

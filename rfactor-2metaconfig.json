@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "UserData\\player\\Multiplayer.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "UserData\\player\\player.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    }
+]
